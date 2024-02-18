@@ -2,7 +2,7 @@
     <div class="sidebar-header">
         <a class="header-brand" href="index.html">
             <div class="logo-img">
-               <img src="src/img/brand-white.svg" class="header-brand-img" alt="lavalite"> 
+               <img src="{{ asset('admin/src/img/brand-white.svg') }} " class="header-brand-img" alt="lavalite"> 
             </div>
             <span class="text">ThemeKit</span>
         </a>
